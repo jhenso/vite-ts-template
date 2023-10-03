@@ -1,0 +1,7 @@
+run = "npm run dev"
+entrypoint = "index.html"
+
+hidden = [".config", ".gitignore"]
+
+[nix]
+channel = "stable-22_11"
